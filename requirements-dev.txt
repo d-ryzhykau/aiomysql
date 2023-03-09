@@ -1,6 +1,6 @@
 coverage==6.3
 flake8==4.0.1
-ipdb==0.13.9
+ipdb==0.13.13
 pytest==6.2.5
 pytest-cov==3.0.0
 pytest-sugar==0.9.4
